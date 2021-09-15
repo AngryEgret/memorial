@@ -2,7 +2,7 @@
 layout: about
 title: Obituary
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: November 28, 1932 ~ September 8, 2021 (age 88)
 
 profile:
   align: right
