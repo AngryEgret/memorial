@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Obituary
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -12,13 +12,19 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sandra Marie Gibson (nee Shelley) died on September 8, 2021 at the age of 88 from post heart attack complications.  She is survived by her children, her grandchildren, and their families: Shelley Selle (daughter), Dennis Gibson (son), Dale Gibson (son), Ryan Greget (grandson), and Bradyn Gibson (grandson).  Due to the COVID-19 pandemic, no services will be held; the family will have a private celebration of life.  Sandra will be laid to rest next to her late husband at the Forest Lawn Cemetery in Glendale, CA.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In lieu of flowers, the family ask that donations be made in Sandra’s memory to the [Children’s Hunger Fund](https://childrenshungerfund.org/){:target="\_blank"}.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Sandra was born in Denver, CO on November 28, 1932 to Virgil and Gladys Shelley.  She was an only child and the family eventually moved to California.  Sandra graduated from Beverly Hills High School in 1950.  After high school, she attended some college where she studied art before marrying Richard H. Gibson on November ??, 195?.  Sandra and Richard raised their three children together in Northridge, CA until Richard’s in October of 1976 from cancer.
+
+Sandra continued living in Northridge and eventually would spend over 60 years of her life there.  She was an outgoing woman with many friends and social commitments.  She was a believer in community.  She previously served as president of the Northridge Junior Women’s Club, and also worked as a docent at both The Getty and the Los Angeles Museum of Natural History.
+
+Sandra’s interests in life were many and varied.  She loved traveling abroad and did so often.  She was a lifelong yoga enthusiast and also enjoyed square dancing.  Her love of art extended to music; she played the guitar and was often singing folk songs.  Sandra was a voracious reader of books and an avid animal lover.
+
+Sandra spent the last few years of her life living in the Prescott, AZ area, close to all of her children.  She will be missed dearly by all those that knew her, and she will be remembered for her outgoing personality, generous spirit, and her love of the world.
