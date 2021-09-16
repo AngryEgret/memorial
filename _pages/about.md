@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Sandra Marie Gibson (nee Shelley) died on September 8, 2021 at the age of 88 following complicatings from a heart attack.
+Sandra Marie Gibson (nee Shelley) died on September 8, 2021 at the age of 88 following complications from a heart attack.
 
 She is survived by her children, her grandchildren, and their families:
 * Shelley Selle (daughter)
