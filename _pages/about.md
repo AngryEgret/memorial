@@ -6,11 +6,9 @@ description: November 28, 1932 ~ September 8, 2021 (age 88)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   address: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
