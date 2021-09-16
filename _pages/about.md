@@ -22,6 +22,7 @@ She is survived by her children, her grandchildren, and their families:
 * Dale Gibson (son)
 * Ryan Greget (grandson)
 * Bradyn Gibson (grandson)
+
 Due to the COVID-19 pandemic, no services will be held; the family will have a private celebration of life.  Sandra will be laid to rest next to her late husband at the Forest Lawn Cemetery in Glendale, CA.
 In lieu of flowers, the family ask that donations be made in Sandra’s memory to the [Children’s Hunger Fund](https://childrenshungerfund.org/){:target="\_blank"}.
 Sandra was born in Denver, CO on November 28, 1932 to Virgil and Gladys Shelley, their only child.  The family eventually moved to California where Sandra graduated from Beverly Hills High School in 1950.  After high school, she attended college where she studied art before marrying Richard H. Gibson on November 20, 1951.  Sandra and Richard raised their three children together in Northridge, CA until Richard’s death in October of 1976 from cancer.
